@@ -80,10 +80,4 @@
   { "name": "Ter Stegen", "position": "GK", "image": "https://via.placeholder.com/200" },
   { "name": "Donnarumma", "position": "GK", "image": "https://via.placeholder.com/200" },
   { "name": "Pickford", "position": "GK", "image": "https://via.placeholder.com/200" }
-
-  
-  /* 👉 IMPORTANTE:
-  Para completar los 250:
-  copiá este formato hasta llegar a 250 jugadores */
-
 ]
