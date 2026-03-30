@@ -1,0 +1,89 @@
+[
+  { "name": "Miguel Borja", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Adam Bareiro", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Miguelito Terceros", "position": "CAM", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Messi", "position": "RW", "image": "https://via.placeholder.com/200" },
+  { "name": "Cristiano Ronaldo", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Neymar", "position": "LW", "image": "https://via.placeholder.com/200" },
+  { "name": "Mbappe", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Haaland", "position": "ST", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Ronaldinho", "position": "LW", "image": "https://via.placeholder.com/200" },
+  { "name": "Zidane", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Xavi", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Iniesta", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Kaka", "position": "CAM", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Beckham", "position": "RM", "image": "https://via.placeholder.com/200" },
+  { "name": "Figo", "position": "RW", "image": "https://via.placeholder.com/200" },
+  { "name": "Henry", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Ronaldo Nazario", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Shevchenko", "position": "ST", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Pirlo", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Lampard", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Gerrard", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Busquets", "position": "CDM", "image": "https://via.placeholder.com/200" },
+  { "name": "Casemiro", "position": "CDM", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Modric", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Kroos", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "De Bruyne", "position": "CAM", "image": "https://via.placeholder.com/200" },
+  { "name": "Bellingham", "position": "CM", "image": "https://via.placeholder.com/200" },
+  { "name": "Valverde", "position": "CM", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Vinicius Jr", "position": "LW", "image": "https://via.placeholder.com/200" },
+  { "name": "Salah", "position": "RW", "image": "https://via.placeholder.com/200" },
+  { "name": "Son", "position": "LW", "image": "https://via.placeholder.com/200" },
+  { "name": "Dembele", "position": "RW", "image": "https://via.placeholder.com/200" },
+  { "name": "Saka", "position": "RW", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Lewandowski", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Benzema", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Kane", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Suarez", "position": "ST", "image": "https://via.placeholder.com/200" },
+  { "name": "Aguero", "position": "ST", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Maldini", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Nesta", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Cannavaro", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Puyol", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Ramos", "position": "CB", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Van Dijk", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Thiago Silva", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Varane", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Dias", "position": "CB", "image": "https://via.placeholder.com/200" },
+  { "name": "Araujo", "position": "CB", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Roberto Carlos", "position": "LB", "image": "https://via.placeholder.com/200" },
+  { "name": "Marcelo", "position": "LB", "image": "https://via.placeholder.com/200" },
+  { "name": "Alba", "position": "LB", "image": "https://via.placeholder.com/200" },
+  { "name": "Theo Hernandez", "position": "LB", "image": "https://via.placeholder.com/200" },
+  { "name": "Davies", "position": "LB", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Cafu", "position": "RB", "image": "https://via.placeholder.com/200" },
+  { "name": "Zanetti", "position": "RB", "image": "https://via.placeholder.com/200" },
+  { "name": "Carvajal", "position": "RB", "image": "https://via.placeholder.com/200" },
+  { "name": "Walker", "position": "RB", "image": "https://via.placeholder.com/200" },
+  { "name": "Hakimi", "position": "RB", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Buffon", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Casillas", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Neuer", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Courtois", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Alisson", "position": "GK", "image": "https://via.placeholder.com/200" },
+
+  { "name": "Ederson", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Oblak", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Ter Stegen", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Donnarumma", "position": "GK", "image": "https://via.placeholder.com/200" },
+  { "name": "Pickford", "position": "GK", "image": "https://via.placeholder.com/200" }
+
+  
+  /* 👉 IMPORTANTE:
+  Para completar los 250:
+  copiá este formato hasta llegar a 250 jugadores */
+
+]
