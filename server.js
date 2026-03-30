@@ -22,7 +22,7 @@ function rotateCard() {
   currentCard = getRandomCard();
 }
 
-setInterval(rotateCard, 15000);
+setInterval(rotateCard, 720000);
 rotateCard();
 
 // obtener carta
